@@ -1,3 +1,3 @@
 # This is my project's README file
 
-Replace me with importance information
+That's an updated version from branch fixBug/updated-readme-file
